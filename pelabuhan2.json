@@ -1,0 +1,32 @@
+[
+  {
+    "pelabuhan": "Raha",
+    "suhu": "+30°C",
+    "cuaca": "Berawan",
+    "angin": "12 knot"
+  },
+  {
+    "pelabuhan": "Nunukan",
+    "suhu": "+31°C",
+    "cuaca": "Cerah",
+    "angin": "15 knot"
+  },
+  {
+    "pelabuhan": "Tanjung Priok",
+    "suhu": "+32°C",
+    "cuaca": "Hujan Ringan",
+    "angin": "10 knot"
+  },
+  {
+    "pelabuhan": "Belawan",
+    "suhu": "+29°C",
+    "cuaca": "Cerah Berawan",
+    "angin": "8 knot"
+  },
+  {
+    "pelabuhan": "Benoa",
+    "suhu": "+28°C",
+    "cuaca": "Berawan Tebal",
+    "angin": "18 knot"
+  }
+]
